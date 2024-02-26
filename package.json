@@ -1,0 +1,29 @@
+{
+  "name": "arraylast-tictactoee",
+  "version": "1.0.0",
+  "description": "<!-- # ⭕ Tic-Tac-Toe -->",
+  "main": "index.js",
+  "publishConfig": {
+    "@arraylast/tictactoee:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "dependencies"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arraylasted/tictactoee.git"
+  },
+  "keywords": [
+    "npm",
+    "tictactoe",
+    "leo",
+    "leo-cli",
+    "node"
+  ],
+  "author": "arraylast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arraylasted/tictactoee/issues"
+  },
+  "homepage": "https://github.com/arraylasted/tictactoee#readme"
+}
