@@ -1,10 +1,10 @@
 {
-  "name": "arraylast-tictactoee",
+  "name": "tictactoee",
   "version": "1.0.1-b",
   "description": "<!-- # ⭕ Tic-Tac-Toe -->",
   "main": "index.js",
   "publishConfig": {
-    "arraylast:registry": "https://npm.pkg.github.com"
+    "@arraylast:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "dependencies"
