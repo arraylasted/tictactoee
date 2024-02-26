@@ -4,7 +4,7 @@
   "description": "<!-- # ⭕ Tic-Tac-Toe -->",
   "main": "index.js",
   "publishConfig": {
-    "@arraylast/tictactoee:registry": "https://npm.pkg.github.com"
+    "arraylast/tictactoee:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "dependencies"
