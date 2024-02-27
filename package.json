@@ -6,6 +6,9 @@
   "publishConfig": {
     "@arraylast/tictactoee:registry": "https://npm.pkg.github.com"
   },
+  "dependencies": {
+    "leo": "^1.0.0"
+  },
   "scripts": {
     "test": "0"
   },
