@@ -8,6 +8,18 @@
   },
   "dependencies": {
     "tictac.aleo": "0.0.0"
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "supertest": "0.5.x",
+    "mocha": "1.8.x",
+    "should": "1.2.x"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "bin": {
+    "tictactoe": "./bin/tictactoe"
   },
   "scripts": {
     "test": "0"
