@@ -1,6 +1,6 @@
 {
-  "name": "@arraylast/tictactoee",
-  "version": "1.0.3",
+  "name": "@arraylasted/tictactoee",
+  "version": "1.0.4",
   "description": "<!-- # ⭕ Tic-Tac-Toe -->",
   "main": "index.js",
   "publishConfig": {
