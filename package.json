@@ -7,7 +7,23 @@
     "@arraylast/tictactoee:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
+<<<<<<< HEAD
     "tictactoe": "0.1.0"
+=======
+    "tictac.aleo": "0.0.0"
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "supertest": "0.5.x",
+    "mocha": "1.8.x",
+    "should": "1.2.x"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "bin": {
+    "tictactoe": "./bin/tictactoe"
+>>>>>>> 42e6ab83cc6a0dadc9fc2ff987bdab00aa0528b9
   },
   "scripts": {
     "test": "0"
