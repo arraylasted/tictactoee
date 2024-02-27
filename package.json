@@ -1,14 +1,12 @@
 {
   "name": "@arraylasted/tictactoee",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "<!-- # ⭕ Tic-Tac-Toe -->",
   "main": "index.js",
   "publishConfig": {
     "@arraylast/tictactoee:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "tictactoe": "0.1.0"
-    "tictac.aleo": "0.0.0"
     "underscore": "~1.5.2"
   },
   "devDependencies": {
