@@ -7,7 +7,7 @@
     "@arraylast/tictactoee:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "leo-cli": "^3.0.0"
+    "tictac.aleo": "0.0.0"
   },
   "scripts": {
     "test": "0"
